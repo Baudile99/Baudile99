@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Baudile</h1>
 <h3 align="center">I am a tech enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baudile99" alt="baudile99" /></a> </p>
-
 - 📫 How to reach me **honorekbb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
